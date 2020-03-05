@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+}
+
+.title {
+    background-color: darkgray;
+    text-align: center;
+    padding: 5px;
+}
+
+.body {
+    background-color: darkgray;
+    height: 540px;
+}
+
+.bodycampaigns {
+    background-color: darkgray;
+    height: 545px;
+}
+
+.discord {
+    width: 125px;
+    height: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+img {
+    width: 600px;
+    height: 350px;
+    padding: 5px;
+}
